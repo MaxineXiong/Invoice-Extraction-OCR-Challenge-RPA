@@ -29,7 +29,7 @@ https://github.com/MaxineXiong/Invoice-Extraction-OCR-Challenge-RPA/assets/55864
 
 <br/>
 
-*Please note that as of 12 April 2024, the server for rpachallenge.com has been neglected and is unable to score the output results. It will consistently 
+*Please note that as of 12 April 2024, the server for rpachallenge.com seems neglected and unable to score the output results. It will consistently 
 display a failed status in the end, regardless of whether the uploaded CSV file matches the correct result. Please disregard the challenge website's score rating for your uploads.*
 
 
