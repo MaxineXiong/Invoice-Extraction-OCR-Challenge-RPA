@@ -18,8 +18,8 @@ This repository hosts an [UiPath](https://www.uipath.com/) automation solution d
 5. Below is the snapshot of an example CSV file in order to see the required format for the end result and two sample invoices. The formats of the invoices will be exactly as in the samples and they will not change. **The challenge
    expects the uploaded CSV to be in the exact same format as the example CSV, including the formatting of the cells, and the rows should be in the same order as they appear in the table. Any difference will result in a failed challenge.**
 
-![image](https://github.com/MaxineXiong/Invoice-Extraction-OCR-Challenge-RPA/assets/55864839/06d96162-f67e-418c-b033-6fc11252daa7)
 
+![image](https://github.com/MaxineXiong/Invoice-Extraction-OCR-Challenge-RPA/assets/55864839/06d96162-f67e-418c-b033-6fc11252daa7)
 
 
 _You can check out the **automation demo video for the solution** below_:
@@ -27,11 +27,10 @@ _You can check out the **automation demo video for the solution** below_:
 https://github.com/MaxineXiong/Invoice-Extraction-OCR-Challenge-RPA/assets/55864839/e9a608c4-1e0d-415d-a303-bd431ec71daf
 
 
+<br/>
 
-
-
-
-
+*Please note that as of 12 April 2024, the server for rpachallenge.com has been deprecated and is unable to score the output results. It will consistently 
+display a failed status in the end, regardless of whether the uploaded CSV file matches the correct result. Please disregard the challenge website's score rating for your uploads.*
 
 
 <br/>
